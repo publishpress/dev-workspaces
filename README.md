@@ -58,7 +58,7 @@ Commands:
 To update the subtree, run the following command:
 
 ```bash
-git subtree pull --prefix=dev-workspace/src
+git subtree pull --prefix=dev-workspace/src https://github.com/publishpress/dev-workspaces.git main --squash
 ```
 
 ## Using the dev-workspace container
