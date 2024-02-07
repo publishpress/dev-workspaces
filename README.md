@@ -1,5 +1,4 @@
-PublishPress Dev-Workspace scripts
-==================================
+# PublishPress Dev-Workspace scripts
 
 This repository contains scripts to help you setup a development environment for PublishPress plugins.
 
